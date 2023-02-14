@@ -1,6 +1,6 @@
 # Big Data Analytics for Healthcare
 ## Supporting health care in everyday life with the help of IoT and smart watches
-<b> 1. Scenario description <b>
+1. Scenario description 
 
 Back in the days the interaction between the doctor and the patient were limited to text/telecommunication and to doctor visits. Due to the Internet of Things (IoT), it is possible to monitor the health of patients continuously and to make recommendations based on it. 
 
